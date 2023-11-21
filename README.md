@@ -1,5 +1,3 @@
-# deployed_url=
-
 # User Management API
 
 ### This repository contains a simple Express.js API for managing user information using MongoDB as the database. The API includes CRUD (Create, Read, Update, Delete) operations for user data.
