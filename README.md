@@ -39,7 +39,8 @@
 
   - Request Body:
 
-    ```{
+    ```
+    {
     "name": "John Doe",
     "role": "Admin",
     "email": "john.doe@example.com",
