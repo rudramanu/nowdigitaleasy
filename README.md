@@ -39,12 +39,12 @@
 
 Request Body:
 
-````{
+```{
 "name": "John Doe",
 "role": "Admin",
 "email": "john.doe@example.com",
 "phoneNumber": "123-456-7890"
-}```
+}
 
 ## GET /user/
 
@@ -61,4 +61,4 @@ Request Body:
 ## PUT /user/:id
 
 - Updates details of a user by ID.
-````
+```
